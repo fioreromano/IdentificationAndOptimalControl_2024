@@ -28,10 +28,11 @@ This project presents a hierarchical control strategy for optimizing the climate
 ## 👩‍🔬 Authors
 **Fiorella Maria Romano, Claudia Panza**  
 📍 Scuola Politecnica e delle Scienze di Base, Ingegneria dell’Automazione e Robotica  
+📅 Academic Year 2024/2025
 # References
 Hierarchical model predictive control of Venlo-type greenhouse climate for improving energy efficiency and reducing operating cost. Dong Lin, Lijun Zhang, Xiaohua Xi
 
-📅 Academic Year 2024/2025
+
 
 ## 📜 Credits
 This work is based on the paper "Hierarchical Model Predictive Control of Venlo-type Greenhouse Climate for Improving Energy Efficiency and Reducing Operating Cost" by Dong Lin, Lijun Zhang, Xiaohua Xi and other referenced literature in the field of greenhouse climate optimization.
